@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+
 body{
 margin:0;
 padding:0;
+
 }
 /*.navbar{
 	background: #f63;
@@ -9,7 +12,7 @@ padding:0;
 .navbar-nav{	
 	margin-left:35%;
 }
-/**/
+/**** MAIN PIC ********/
 .main-pic{
 	margin:0;
 }
@@ -17,4 +20,47 @@ padding:0;
 .main-pic img{
 	width: 100%;
 	height: auto;
+}
+
+.main-pic-title{
+	position: absolute;
+	margin-top: -1100px;
+	margin-left: 35%;
+	color: #d9d9d9;
+	background: #fff;
+	border-radius: 12px;
+}
+/*****************************/
+
+/******** Skills ***************/
+.skills {
+	width: 100%;
+	height:500px;
+}
+
+.skills-s{
+	width:100%;
+	height: 420px;
+	border:1px solid #f63;
+}
+.fa {
+	color:#f63;
+	font-size:25px;
+}
+
+.skills-title{
+	font-size: 20px;
+	font-family: 'Barrio', cursive;
+}
+
+.skills-s h1{
+	font-family: 'Barrio', cursive;
+	border:1px solid red;
+	text-align: center;
+	font-size: 35px;
+	width:60%;
+	margin:0 auto;
+	margin-bottom: 50px;
+	margin-top: 40px;
+
 }
