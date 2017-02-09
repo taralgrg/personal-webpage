@@ -86,3 +86,14 @@ padding:0;
 	margin-bottom: 50px;
 	margin-top: 40px;
 }
+
+.liketaral {
+	width:100%;
+	height: 250px;
+	font-family: 'Barrio', cursive;
+	text-align: center;
+}
+
+.liketaral h1{
+	font-size: 100px;
+}
