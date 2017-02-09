@@ -1,11 +1,20 @@
 body{
-
+margin:0;
+padding:0;
 }
 /*.navbar{
 	background: #f63;
 }*/
 
-.navbar-nav{
-	
+.navbar-nav{	
 	margin-left:35%;
+}
+/**/
+.main-pic{
+	margin:0;
+}
+
+.main-pic img{
+	width: 100%;
+	height: auto;
 }
