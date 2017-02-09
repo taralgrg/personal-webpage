@@ -4,3 +4,8 @@ body{
 /*.navbar{
 	background: #f63;
 }*/
+
+.navbar-nav{
+	
+	margin-left:35%;
+}
